@@ -16,3 +16,6 @@ cambio de estcritorio 14/08/2025 6🕟
 cambio de estcritorio 14/08/2025 6🕟
 cambio de estcritorio 14/08/2025 6🕟
 
+## nueva modalidad
+
+cambio antes del parcial
