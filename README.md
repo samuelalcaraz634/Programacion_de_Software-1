@@ -17,3 +17,11 @@ cambio de estcritorio 14/08/2025 6🕟
 cambio de estcritorio 14/08/2025 6🕟
 
 ##cambioooooo
+git add *
+git status
+git commit -am
+git push
+
+
+git fetch
+git pull
