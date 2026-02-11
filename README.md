@@ -22,6 +22,8 @@ git status
 git commit -am
 git push
 
+ git branch dev_1
+git checkout dev_1
 
 git fetch
 git pull
